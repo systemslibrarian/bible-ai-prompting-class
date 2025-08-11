@@ -1,6 +1,6 @@
 # 📖 Bible + AI Prompting Class (NIV Edition)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/bible-ai-prompting-class/blob/main/bible_ai_prompting_masterclass_NIV_expanded.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/systemslibrarian/bible-ai-prompting-class/blob/main/bible_ai_prompting_masterclass_NIV_expanded.ipynb)
 
 Learn AI prompt engineering through Bible study — NIV edition with lessons, examples, and an expanded prompt library.
 
